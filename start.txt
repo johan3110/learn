@@ -1,5 +1,5 @@
-# gitstmiktime
+# gitstmb multismart
 
-hello Git
+hello tig
 
-kami di stmiktime
+kami di stmb multismart
