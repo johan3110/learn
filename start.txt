@@ -1,0 +1,2 @@
+# gitstmiktime
+hello Git
