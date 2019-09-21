@@ -1,1 +1,1 @@
-ayo belajar bersama
+itu lah
