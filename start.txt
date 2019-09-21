@@ -1,2 +1,5 @@
 # gitstmiktime
+
 hello Git
+
+kami di stmiktime
